@@ -1,17 +1,18 @@
 ---
-id: "The Python Tutorial — Python 3.14.3 documentation"
-aliases: "파이썬 튜토리얼 — Python 3.14.3 문서"
+id: The Python Tutorial — Python 3.14.3 documentation
+aliases: 파이썬 튜토리얼 — Python 3.14.3 문서
 tags:
   - programming/python
   - documentation/tutorial
   - python/interpreter
   - python/data-structures
   - python/standard-library
-author: "unknown"
+author: unknown
 tool: codex
-created_at: "2026-03-04 17:43"
+created: 2026-03-04 17:43
 related: []
-source: "https://docs.python.org/3/tutorial/index.html"
+source: https://docs.python.org/3/tutorial/index.html
+modified: 2026-03-09 20:45
 ---
 
 ## 1. Highlights/Summary

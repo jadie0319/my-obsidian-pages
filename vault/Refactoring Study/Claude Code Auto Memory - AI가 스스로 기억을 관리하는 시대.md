@@ -10,10 +10,10 @@ tags:
   - tools/claude-code/configuration
 author: kim-seongbak
 tool: claude
-created_at: 2026-03-04 08:40
+created: 2026-03-04 08:40
 related: []
 source: https://www.fullstackfamily.com/@urstory/posts/13935/Claude-Code-Auto-Memory-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B8%B0%EC%96%B5%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80
-modified: 2026-03-04 17:43
+modified: 2026-03-09 20:46
 ---
 
 
