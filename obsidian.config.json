@@ -1,14 +1,11 @@
 {
-  "source": "/Users/jdragon/Library/Mobile Documents/iCloud~md~obsidian/Documents/Jadie icloud/",
+  "source": "./vault",
   "output": "./dist",
   "exclude": [
     ".obsidian",
-    ".trash",
-    "Templates",
-    "5. Company",
-    "00.Projects"
+    ".trash"
   ],
-  "basePath": "/",
+  "basePath": "/my-obsidian-pages",
   "template": "default",
   "site": {
     "title": "Jadie Blog",

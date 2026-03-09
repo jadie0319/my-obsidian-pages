@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm install -g my-obsidian
-      - run: my-obsidian build --source ./vault --output ./dist --base-path /my-obsidian-pages/
+      - run: my-obsidian build --config obsidian.config.json 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
