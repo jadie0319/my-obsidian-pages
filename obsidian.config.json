@@ -1,0 +1,28 @@
+{
+  "source": "/Users/jdragon/Library/Mobile Documents/iCloud~md~obsidian/Documents/Jadie icloud/",
+  "output": "./dist",
+  "exclude": [
+    ".obsidian",
+    ".trash",
+    "Templates",
+    "5. Company",
+    "00.Projects"
+  ],
+  "basePath": "/",
+  "template": "default",
+  "site": {
+    "title": "My Digital Garden",
+    "description": "My notes published from Obsidian",
+    "author": ""
+  },
+  "markdown": {
+    "preserveWikiLinks": false,
+    "convertCallouts": true,
+    "syntaxHighlighting": true
+  },
+  "features": {
+    "generateIndex": true,
+    "generateSitemap": true,
+    "copyAssets": true
+  }
+}
