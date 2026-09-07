@@ -1,7 +1,6 @@
 ---
 tags:
   - blog-test
-status: draft
 aliases: []
 created: '2026-03-11T09:51:00+09:00'
 modified: '2026-03-11T10:13:00+09:00'

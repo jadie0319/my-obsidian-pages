@@ -26,10 +26,10 @@
   "publishing": {
     "language": "ko",
     "homeOrder": [
+      "graph",
       "intro",
       "recent",
-      "topics",
-      "graph"
+      "topics"
     ],
     "search": true,
     "previews": true,

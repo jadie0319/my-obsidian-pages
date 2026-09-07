@@ -1,7 +1,6 @@
 ---
 tags:
   - ai/llm-wiki
-status: draft
 aliases: []
 created: '2026-09-07T10:41:00+09:00'
 modified: '2026-09-07T10:44:00+09:00'
@@ -22,5 +21,4 @@ redirectFrom:
 링크도 될까? [[LLM위키 글 테스트]]
 
 다시 테스트
-
 

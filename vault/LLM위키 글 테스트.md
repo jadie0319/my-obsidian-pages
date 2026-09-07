@@ -1,7 +1,6 @@
 ---
 tags:
   - ai/llm-wiki
-status: draft
 aliases: []
 created: '2026-09-07T09:45:00+09:00'
 modified: '2026-09-07T10:44:00+09:00'
