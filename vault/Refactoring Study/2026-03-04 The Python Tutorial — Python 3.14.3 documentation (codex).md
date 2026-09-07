@@ -9,10 +9,16 @@ tags:
   - python/standard-library
 author: unknown
 tool: codex
-created: 2026-03-04 17:43
+created: '2026-03-04T17:43:00+09:00'
 related: []
 source: https://docs.python.org/3/tutorial/index.html
-modified: 2026-03-09 20:45
+modified: '2026-03-09T20:45:00+09:00'
+description: 배우고 실험한 내용을 정리한 노트입니다.
+status: budding
+title: 파이썬 공식 튜토리얼 요약
+permalink: /Refactoring Study/2026-03-04-the-python-tutorial-python-3143-documentation-codex/
+redirectFrom:
+  - /Refactoring Study/2026-03-04-the-python-tutorial-python-3143-documentation-codex.html
 ---
 
 ## 1. Highlights/Summary
@@ -52,4 +58,3 @@ modified: 2026-03-09 20:45
 - 라이선스/업데이트 정보가 명시되어 있어, 팀 문서화·교육 자료로 재사용할 때 컴플라이언스와 최신성 점검에 유리하다.
 
 ## Images
-![[99.Attachments/article-01-py.svg]]

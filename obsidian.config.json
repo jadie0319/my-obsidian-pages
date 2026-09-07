@@ -10,7 +10,8 @@
   "site": {
     "title": "Jadie Blog",
     "description": "My notes published from Obsidian",
-    "author": ""
+    "author": "",
+    "url": "https://jadie0319.github.io/my-obsidian-pages"
   },
   "markdown": {
     "preserveWikiLinks": false,
@@ -21,5 +22,20 @@
     "generateIndex": true,
     "generateSitemap": true,
     "copyAssets": true
+  },
+  "publishing": {
+    "language": "ko",
+    "homeOrder": [
+      "intro",
+      "recent",
+      "topics",
+      "graph"
+    ],
+    "search": true,
+    "previews": true,
+    "localGraph": true,
+    "rss": true,
+    "checkLinks": true,
+    "strictLinks": true
   }
 }

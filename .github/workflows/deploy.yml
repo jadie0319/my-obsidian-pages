@@ -17,8 +17,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm install -g my-obsidian
-      - run: my-obsidian build --config obsidian.config.json 
+      - run: npm install -g my-obsidian@latest
+      - run: my-obsidian build --config obsidian.config.json
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist

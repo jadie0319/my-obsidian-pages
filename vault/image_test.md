@@ -1,9 +1,15 @@
 ---
-tags: []
+tags:
+  - blog-test
 status: draft
 aliases: []
-created: 2026-03-11 09:51
-modified: 2026-03-11 10:13
+created: '2026-03-11T09:51:00+09:00'
+modified: '2026-03-11T10:13:00+09:00'
+description: 블로그 기능을 확인하기 위한 테스트 노트입니다.
+title: image_test
+permalink: /image_test/
+redirectFrom:
+  - /image_test.html
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-id: "Claude Code Auto Memory: AI가 스스로 기억을 관리하는 시대"
+id: 'Claude Code Auto Memory: AI가 스스로 기억을 관리하는 시대'
 aliases: Claude Code Auto Memory - AI가 스스로 기억을 관리하는 시대
 tags:
   - tools/claude-code/auto-memory
@@ -10,10 +10,16 @@ tags:
   - tools/claude-code/configuration
 author: kim-seongbak
 tool: claude
-created: 2026-03-04 08:40
+created: '2026-03-04T08:40:00+09:00'
 related: []
 source: https://www.fullstackfamily.com/@urstory/posts/13935/Claude-Code-Auto-Memory-AI%EA%B0%80-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EA%B8%B0%EC%96%B5%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EC%8B%9C%EB%8C%80
-modified: 2026-03-09 20:46
+modified: '2026-03-09T20:46:00+09:00'
+description: 배우고 실험한 내용을 정리한 노트입니다.
+status: budding
+title: 'Claude Code Auto Memory: 자동 기억 관리'
+permalink: /Refactoring Study/claude-code-auto-memory-ai가-스스로-기억을-관리하는-시대/
+redirectFrom:
+  - /Refactoring Study/claude-code-auto-memory-ai가-스스로-기억을-관리하는-시대.html
 ---
 
 
